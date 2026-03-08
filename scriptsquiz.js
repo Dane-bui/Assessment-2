@@ -92,7 +92,7 @@ function handleAnswer(isCleanChoice) {
 
   setTimeout(() => {
     loadQuestion();
-  }, 900);
+  }, 4500);
 }
 
 function endGame() {
